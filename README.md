@@ -31,5 +31,3 @@
 
 ## 📫 Contact
 - Email: yourmail@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taansfast11&show_icons=true&theme=radical)
